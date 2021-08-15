@@ -22,15 +22,16 @@ Meu nome é William, atualmente desenvolvedor web com foco em PHP/JS
 ![](https://img.shields.io/badge/Code-PHP-informational?style=for-the-badge&logo=php&color=8892BF&logoColor=8892BF)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=for-the-badge&logo=laravel&color=FF2D20&logoColor=FF2D20)
 ![](https://img.shields.io/badge/Code-Lumen-informational?style=for-the-badge&logo=lumen&color=E74430&logoColor=E74430)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=f7df1e)
-![](https://img.shields.io/badge/Code-React-informational?style=for-the-badge&logo=react&color=61DAFB)
+![](https://img.shields.io/badge/Code-CodeIgniter-informational?style=for-the-badge&logo=codeigniter&color=EF4223&logoColor=EF4223)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=f7df1e&logoColor=f7df1e)
+![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vuedotjs&color=4FC08D&logoColor=4FC08D)
 
-![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=fcc624)
-![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=2496ed)
-![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=for-the-badge&logo=rabbitmq&color=FF6600)
-![](https://img.shields.io/badge/Tools-Nginx-informational?style=for-the-badge&logo=nginx&color=269539)
-![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&color=4479A1)
-
+![](https://img.shields.io/badge/Tools-Nginx-informational?style=for-the-badge&logo=nginx&color=269539&logoColor=269539)
+![](https://img.shields.io/badge/Tools-Apache-informational?style=for-the-badge&logo=apache&color=D22128&logoColor=D22128)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=2496ed&logoColor=2496ed)
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=for-the-badge&logo=rabbitmq&color=FF6600&logoColor=FF6600)
+![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&color=4479A1&logoColor=4479A1)
+![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=fcc624&logoColor=fcc624)
 
 ----
 
