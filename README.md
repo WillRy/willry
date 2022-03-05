@@ -42,4 +42,4 @@ Meu nome é William, atualmente desenvolvedor web com foco em PHP/JS
 
 ![WillRy GitHub Stats](https://github-readme-stats.vercel.app/api?username=willry&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willry&langs_count=8&hide=Visual%20Basic,Dart,html&layout=compact)](https://github.com/willry/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=willry&hide=Visual%20Basic,Dart,html,Blade,SCSS,PLSQL,Shell,Hack,%20Makefile&layout=compact&langs_count=4)](https://github.com/willry/github-readme-stats)
