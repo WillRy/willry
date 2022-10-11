@@ -5,7 +5,8 @@ Meu nome é William, atualmente desenvolvedor web com foco em PHP/JS
 <br>
 
 * Grande fã do ecossistema Laravel
-* Atualmente desbravando o mundo dos containers, migrando aplicações para ambientes em Docker Swarm
+* Curto componentizar interfaces com Vue.JS, Vuex/Pinia e mais!
+* Forte interesse em filas/mensagerias (RabbitMQ e AMQP de forma geral)
 
 
 <br>  
@@ -26,10 +27,12 @@ Meu nome é William, atualmente desenvolvedor web com foco em PHP/JS
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&color=f7df1e&logoColor=f7df1e)
 ![](https://img.shields.io/badge/Code-Vue-informational?style=for-the-badge&logo=vuedotjs&color=4FC08D&logoColor=4FC08D)
 
+![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=for-the-badge&logo=rabbitmq&color=FF6600&logoColor=FF6600)
 ![](https://img.shields.io/badge/Tools-Nginx-informational?style=for-the-badge&logo=nginx&color=269539&logoColor=269539)
 ![](https://img.shields.io/badge/Tools-Apache-informational?style=for-the-badge&logo=apache&color=D22128&logoColor=D22128)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=for-the-badge&logo=docker&color=2496ed&logoColor=2496ed)
-![](https://img.shields.io/badge/Tools-RabbitMQ-informational?style=for-the-badge&logo=rabbitmq&color=FF6600&logoColor=FF6600)
+![](https://img.shields.io/badge/Tools-Traefik-informational?style=for-the-badge&logo=Traefik%20Proxy&color=24A1C1&logoColor=24A1C1)
+![](https://img.shields.io/badge/Tools-Portainer-informational?style=for-the-badge&logo=Portainer&color=13BEF9&logoColor=13BEF9)
 ![](https://img.shields.io/badge/Tools-MySQL-informational?style=for-the-badge&logo=mysql&color=4479A1&logoColor=4479A1)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=for-the-badge&logo=linux&color=fcc624&logoColor=fcc624)
 
