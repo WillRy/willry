@@ -4,9 +4,14 @@ Meu nome é William, atualmente desenvolvedor web com foco em PHP/JS
 
 <br>
 
-* Grande fã do ecossistema Laravel
-* Curto componentizar interfaces com Vue.JS, Vuex/Pinia e mais!
-* Forte interesse em filas/mensagerias (RabbitMQ e AMQP de forma geral)
+* Tenho interesse em frameworks PHP como Laravel, Symfony e Slim
+* Curto front end, onde tento componentizar interfaces com:
+  *  Vue.JS, Vuex/Pinia
+  *  Storybook para documentar design system
+  *  React.JS e Next.JS
+* Interesse em filas de processamento e mensageria
+  * RabbitMQ para filas e mensageria
+  * Beanstalkd para filas
 
 
 <br>  
