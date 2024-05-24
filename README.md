@@ -6,7 +6,7 @@ Meu nome é William, atualmente desenvolvedor web com foco em PHP/JS
 
 * Tenho interesse em frameworks PHP como Laravel, Symfony e Slim
 * Curto front end, onde tento componentizar interfaces com:
-  *  Vue.JS, Vuex/Pinia
+  *  Vue.JS, Pinia.JS, Inertia e demais ferramentas Vue.JS
   *  Storybook para documentar design system
   *  React.JS e Next.JS
 * Interesse em filas de processamento e mensageria
