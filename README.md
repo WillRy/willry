@@ -8,7 +8,6 @@ Meu nome é William, atualmente desenvolvedor web com foco em PHP/JS
 * Curto front end, onde tento componentizar interfaces com:
   *  Vue.JS, Pinia.JS, Inertia e demais ferramentas Vue.JS
   *  Storybook para documentar design system
-  *  React.JS e Next.JS
 * Interesse em filas de processamento e mensageria
   * RabbitMQ para filas e mensageria
   * Beanstalkd para filas
